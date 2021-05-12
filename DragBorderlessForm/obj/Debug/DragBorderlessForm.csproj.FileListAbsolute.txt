@@ -1,0 +1,10 @@
+C:\Users\pLoTo\source\repos\DragBorderlessForm\DragBorderlessForm\bin\Debug\DragBorderlessForm.exe.config
+C:\Users\pLoTo\source\repos\DragBorderlessForm\DragBorderlessForm\bin\Debug\DragBorderlessForm.exe
+C:\Users\pLoTo\source\repos\DragBorderlessForm\DragBorderlessForm\bin\Debug\DragBorderlessForm.pdb
+C:\Users\pLoTo\source\repos\DragBorderlessForm\DragBorderlessForm\obj\Debug\DragBorderlessForm.csprojAssemblyReference.cache
+C:\Users\pLoTo\source\repos\DragBorderlessForm\DragBorderlessForm\obj\Debug\DragBorderlessForm.Form1.resources
+C:\Users\pLoTo\source\repos\DragBorderlessForm\DragBorderlessForm\obj\Debug\DragBorderlessForm.Properties.Resources.resources
+C:\Users\pLoTo\source\repos\DragBorderlessForm\DragBorderlessForm\obj\Debug\DragBorderlessForm.csproj.GenerateResource.cache
+C:\Users\pLoTo\source\repos\DragBorderlessForm\DragBorderlessForm\obj\Debug\DragBorderlessForm.csproj.CoreCompileInputs.cache
+C:\Users\pLoTo\source\repos\DragBorderlessForm\DragBorderlessForm\obj\Debug\DragBorderlessForm.exe
+C:\Users\pLoTo\source\repos\DragBorderlessForm\DragBorderlessForm\obj\Debug\DragBorderlessForm.pdb
